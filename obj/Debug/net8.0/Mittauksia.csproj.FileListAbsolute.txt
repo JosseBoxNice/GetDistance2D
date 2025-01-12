@@ -1,0 +1,14 @@
+D:\CodingProjects\school\demot\demo6\Teht4\Mittauksia\obj\Debug\net8.0\Mittauksia.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodingProjects\school\demot\demo6\Teht4\Mittauksia\obj\Debug\net8.0\Mittauksia.AssemblyInfoInputs.cache
+D:\CodingProjects\school\demot\demo6\Teht4\Mittauksia\obj\Debug\net8.0\Mittauksia.AssemblyInfo.cs
+D:\CodingProjects\school\demot\demo6\Teht4\Mittauksia\obj\Debug\net8.0\Mittauksia.csproj.CoreCompileInputs.cache
+D:\CodingProjects\school\demot\demo6\Teht4\Mittauksia\bin\Debug\net8.0\Mittauksia.exe
+D:\CodingProjects\school\demot\demo6\Teht4\Mittauksia\bin\Debug\net8.0\Mittauksia.deps.json
+D:\CodingProjects\school\demot\demo6\Teht4\Mittauksia\bin\Debug\net8.0\Mittauksia.runtimeconfig.json
+D:\CodingProjects\school\demot\demo6\Teht4\Mittauksia\bin\Debug\net8.0\Mittauksia.dll
+D:\CodingProjects\school\demot\demo6\Teht4\Mittauksia\bin\Debug\net8.0\Mittauksia.pdb
+D:\CodingProjects\school\demot\demo6\Teht4\Mittauksia\obj\Debug\net8.0\Mittauksia.dll
+D:\CodingProjects\school\demot\demo6\Teht4\Mittauksia\obj\Debug\net8.0\refint\Mittauksia.dll
+D:\CodingProjects\school\demot\demo6\Teht4\Mittauksia\obj\Debug\net8.0\Mittauksia.pdb
+D:\CodingProjects\school\demot\demo6\Teht4\Mittauksia\obj\Debug\net8.0\Mittauksia.genruntimeconfig.cache
+D:\CodingProjects\school\demot\demo6\Teht4\Mittauksia\obj\Debug\net8.0\ref\Mittauksia.dll
