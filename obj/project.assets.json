@@ -8,24 +8,25 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\joosu\\.nuget\\packages\\": {}
+    "C:\\Users\\gr301775\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CodingProjects\\school\\demot\\demo6\\Teht4\\Mittauksia\\Mittauksia.csproj",
+      "projectUniqueName": "C:\\kurssit\\ohj1\\demot\\demo6\\Teht4\\GetDistance2D\\Mittauksia.csproj",
       "projectName": "Mittauksia",
-      "projectPath": "D:\\CodingProjects\\school\\demot\\demo6\\Teht4\\Mittauksia\\Mittauksia.csproj",
-      "packagesPath": "C:\\Users\\joosu\\.nuget\\packages\\",
-      "outputPath": "D:\\CodingProjects\\school\\demot\\demo6\\Teht4\\Mittauksia\\obj\\",
+      "projectPath": "C:\\kurssit\\ohj1\\demot\\demo6\\Teht4\\GetDistance2D\\Mittauksia.csproj",
+      "packagesPath": "C:\\Users\\gr301775\\.nuget\\packages\\",
+      "outputPath": "C:\\kurssit\\ohj1\\demot\\demo6\\Teht4\\GetDistance2D\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\joosu\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\gr301775\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
       ],
       "sources": {
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -64,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.404/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Mittauksia")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c6751e3283d1cb1ffc45c4fca4ffc5a086f8b59")]
 [assembly: System.Reflection.AssemblyProductAttribute("Mittauksia")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Mittauksia")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

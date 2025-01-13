@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Mittauksia
-build_property.ProjectDir = D:\CodingProjects\school\demot\demo6\Teht4\Mittauksia\
+build_property.ProjectDir = c:\kurssit\ohj1\demot\demo6\Teht4\GetDistance2D\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
